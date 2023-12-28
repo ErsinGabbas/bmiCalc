@@ -21,10 +21,12 @@ To run bmiCalc, follow these steps:
    ```bash
    npm start
 The application will start, and you can access it through your web browser at http://localhost:3000.
-## NPM Packages Used: The bmiCalc application uses the following npm packages:
-  express: A fast, unopinionated, minimalist web framework for Node.js.
+## NPM Packages Used 
+The bmiCalc application uses the following npm packages:
+
+express: A fast, unopinionated, minimalist web framework for Node.js.
    ```bash
-   npm start 
+   npm install express 
    ```
 ## Dependencies
 bmiCalc has the following dependencies:
